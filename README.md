@@ -78,7 +78,9 @@ PREDICTION EXAMPLE:
 
 ![image](https://github.com/user-attachments/assets/7b78ab7f-dad1-46a4-b91d-1aaffa2f1b63)
 
-
-
+## 🙋‍♀️ Author
+Done by Kulsum S G
+University: B.S.A. Crescent Institute of Science and Technology
+Internship: AI and ML Week 2 Internship at NSP Nexus
 
 
