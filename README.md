@@ -71,4 +71,14 @@ This project was implemented in **Google Colab** using the following Python libr
 ---
 
 ## ✅ Example Output
+accuracy : 0.1 
+
+PREDICTION EXAMPLE:
+![image](https://github.com/user-attachments/assets/dc08b083-74c2-4706-9ee6-652ef9a240b4)
+
+![image](https://github.com/user-attachments/assets/7b78ab7f-dad1-46a4-b91d-1aaffa2f1b63)
+
+
+
+
 
